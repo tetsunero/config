@@ -1,6 +1,6 @@
 
 /*---------------------------------------------------------------
-  SQLaa DB BACKUP 23.10.2019 08:15 
+  SQL DB BACKUP 23.10.2019 08:15 
   HOST: localhost
   DATABASE: *
   TABLES: *
@@ -9,7 +9,7 @@
 /*---------------------------------------------------------------
   TABLE: `berita`
   ---------------------------------------------------------------*/
-DROP TABLE IF EXISTS `beritae`;
+DROP TABLE IF EXISTS `berita`;
 CREATE TABLE `berita` (
   `id_berita` int(10) NOT NULL AUTO_INCREMENT,
   `id_mapel` int(10) NOT NULL,
