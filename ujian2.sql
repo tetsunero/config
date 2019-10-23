@@ -9,7 +9,7 @@
 /*---------------------------------------------------------------
   TABLE: `berita`
   ---------------------------------------------------------------*/
-DROP TABLE IF EXISTS `berita`;
+DROP TABLE IF EXISTS `beritae`;
 CREATE TABLE `berita` (
   `id_berita` int(10) NOT NULL AUTO_INCREMENT,
   `id_mapel` int(10) NOT NULL,
