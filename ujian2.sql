@@ -1,6 +1,6 @@
 
 /*---------------------------------------------------------------
-  SQL DBa BACKUP 23.10.2019 08:15 
+  SQL DBa BACKUPe 23.10.2019 08:15 
   HOST: localhost
   DATABASE: *
   TABLES: *
