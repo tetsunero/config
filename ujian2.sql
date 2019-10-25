@@ -1,6 +1,6 @@
 
 /*---------------------------------------------------------------
-  SQL DB BACKUP 23.10.2019 08:15a
+  SQL DB BACKUP 23.10.2019 08:15
   HOST: localhost
   DATABASE: *
   TABLES: *
